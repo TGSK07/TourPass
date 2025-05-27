@@ -7,9 +7,6 @@ TourPass is a modern web application that simplifies museum ticket booking and m
 - **Team Members:**
   - Sonu Kumar ([TGSK07](https://github.com/TGSK07))
   - Shubham Maurya ([shubham-maurya](https://github.com/ShubhamMaurya7/))
-  - Abhijeet Dutta ([abhijit-dutta](https://github.com/abhijit-dutta))
-  - Sujoy Sengupta ([SujoySengupta](https://github.com/SujoySengupta))
-
 
 
 
@@ -44,7 +41,7 @@ TourPass is a modern web application that simplifies museum ticket booking and m
 
 - **Backend**
   - Django
-  - PostgreSQL
+  - SQLite
 
 
 - **Frontend**
